@@ -1,18 +1,17 @@
 body {
-    background: #f7f7f7;
+    background: #f2eeee;
     border-radius: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    align
+    color: rgb(85, 76, 76);
 }
 
 #the-bible-life-verse-of-the-day{
     padding: 0em 0.5em;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
-    color: #444;
 }
 
 #verseChapter {
