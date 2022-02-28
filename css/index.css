@@ -1,18 +1,19 @@
 body {
-    background: #f2eeee;
+    background: #f8edef;
     border-radius: 5px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 95vh;
     overflow: hidden;
-    color: rgb(85, 76, 76);
+    color: #ca8ca6;
     text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #the-bible-life-verse-of-the-day{
     padding: 0em 0.5em;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
 }
 
@@ -20,5 +21,23 @@ body {
     font-weight: bold;
 }
 
+.button {
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    width: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    margin-bottom: 1em;
+}
 
+#brown {
+    background: rgb(139, 122, 122);
+}
+
+#pink {
+    background: rgb(247, 155, 190);
+}
       
