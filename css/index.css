@@ -4,9 +4,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 90vh;
     overflow: hidden;
     color: rgb(85, 76, 76);
+    text-align: justify;
 }
 
 #the-bible-life-verse-of-the-day{
