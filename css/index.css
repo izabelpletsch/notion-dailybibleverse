@@ -1,5 +1,5 @@
 body {
-    background: #f8edef;
+    background: #f8f6ed;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@ body {
     align-items: center;
     height: 95vh;
     overflow: hidden;
-    color: #ca7c9c;
+    color: #c09d68;
     text-align: justify;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
