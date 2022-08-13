@@ -1,5 +1,4 @@
 body {
-    background: #faf7d3;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -7,9 +6,18 @@ body {
     align-items: center;
     height: 95vh;
     overflow: hidden;
-    color: #dfa41a;
     text-align: justify;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.gray {
+    color: #37352f;
+    background: #eee;
+}
+
+.yellow {
+    color: #dfa41a;
+    background: #faf7d3;
 }
 
 #the-bible-life-verse-of-the-day{
